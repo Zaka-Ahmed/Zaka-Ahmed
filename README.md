@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Deep Learning and Computer Vision**
 
-- 💬 Ask me about **Machine Learning, Data Science**
+- 💬 Ask me about **Machine Learning, Deep Learning, Data Science**
 
 - 📫 How to reach me **zakaahmed33@gmail.com**
 
