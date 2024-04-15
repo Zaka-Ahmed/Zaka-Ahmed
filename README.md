@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zaka-ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="zaka-ahmed" /> </p>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-<!-- - 🔭 I’m currently working on Image Classification on TensorFlow -->
+<!-- - 🔭 I am currently working on Image Classification on TensorFlow -->
 
-- 🔭 I’m currently learning **Deep Learning and Computer Vision**
+- 🔭 I am exploring and learning more about **Deep Learning and Computer Vision**
 
 - 💬 Ask me about **Machine Learning, Deep Learning, Data Science**
 
