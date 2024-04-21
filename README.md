@@ -52,8 +52,8 @@
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/microsoft_excel/microsoft_excel-icon.svg" alt="excel" width="40" height="40"/>
   </a>
-  <a href="https://powerquery.microsoft.com/en-us/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_powerquery/microsoft_powerquery-icon.svg" alt="power_query" width="40" height="40"/>
+  <a href="https://flow.microsoft.com/en-us/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/microsoft_powerautomate/microsoft_powerautomate-icon.svg" alt="power_automate" width="40" height="40"/>
   </a>
   <a href="https://www.cs.waikato.ac.nz/ml/weka/" target="_blank" rel="noreferrer">
     <img src="https://weka.sourceforge.io/favicon.ico" alt="weka" width="40" height="40"/>
@@ -63,6 +63,7 @@
   </a>
   <!-- Add more icons here -->
 </p>
+
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zaka-ahmed&show_icons=true&locale=en&layout=compact" alt="zaka-ahmed" /></p>
