@@ -53,7 +53,7 @@
     <img src="https://www.freeiconspng.com/uploads/excel-icon-8.png" alt="excel" width="40" height="40"/>
   </a>
   <a href="https://flow.microsoft.com/en-us/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Power_Automate_icon_%28flow%29.svg/512px-Power_Automate_icon_%28flow%29.svg.png" alt="power_automate" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Power_Automate_icon_%28flow%29.svg/1200px-Power_Automate_icon_%28flow%29.svg.png" alt="power_automate" width="40" height="40"/>
   </a>
   <a href="https://www.cs.waikato.ac.nz/ml/weka/" target="_blank" rel="noreferrer">
     <img src="https://weka.sourceforge.io/favicon.ico" alt="weka" width="40" height="40"/>
@@ -63,9 +63,6 @@
   </a>
   <!-- Add more icons here -->
 </p>
-
-
-
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zaka-ahmed&show_icons=true&locale=en&layout=compact" alt="zaka-ahmed" /></p>
