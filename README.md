@@ -59,9 +59,7 @@
   </a>
   <a href="https://www.cs.waikato.ac.nz/ml/weka/" target="_blank" rel="noreferrer">
     <img src="https://weka.sourceforge.io/favicon.ico" alt="weka" width="40" height="40"/>
-    <a href="https://public.tableau.com/en-us/s/gallery" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Tableau_Logo.png/512px-Tableau_Logo.png" alt="tableau_public" width="40" height="40"/>
-  </a>
+   
 </p>
 
 
