@@ -20,7 +20,6 @@
 <p align="left">
    <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
     <img src="https://www.freeiconspng.com/uploads/excel-icon-8.png" alt="excel" width="40" height="40"/>
-  </a> 
  </a>
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
@@ -36,7 +35,6 @@
   
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  </a>
   </a>
   <a href="https://numpy.org/" target="_blank" rel="noreferrer">
     <img src="https://numpy.org/doc/stable/_static/numpylogo.svg" alt="numpy" width="40" height="40"/>
