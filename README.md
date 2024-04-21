@@ -20,7 +20,12 @@
 <p align="left">
  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
     <img src="https://www.freeiconspng.com/uploads/excel-icon-8.png" alt="excel" width="40" height="40"/>
-  </a>
+ <h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://flow.microsoft.com/en-us/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Power_Automate_icon_%28flow%29.svg/1200px-Power_Automate_icon_%28flow%29.svg.png" alt="power_automate" width="40" height="40"/>
+  </a> 
+ </a>
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
   </a>
