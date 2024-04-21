@@ -18,6 +18,9 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+ <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
+    <img src="https://www.freeiconspng.com/uploads/excel-icon-8.png" alt="excel" width="40" height="40"/>
+  </a>
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
   </a>
@@ -30,6 +33,9 @@
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
   </a>
+  </a>
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
+    <img src="https://numpy.org/doc/stable/_static/numpylogo.svg" alt="numpy" width="40" height="40"/>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
   </a>
@@ -48,20 +54,10 @@
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
   </a>
-  <!-- New Icons -->
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
-    <img src="https://www.freeiconspng.com/uploads/excel-icon-8.png" alt="excel" width="40" height="40"/>
-  </a>
-  <a href="https://flow.microsoft.com/en-us/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Power_Automate_icon_%28flow%29.svg/1200px-Power_Automate_icon_%28flow%29.svg.png" alt="power_automate" width="40" height="40"/>
   </a>
   <a href="https://www.cs.waikato.ac.nz/ml/weka/" target="_blank" rel="noreferrer">
     <img src="https://weka.sourceforge.io/favicon.ico" alt="weka" width="40" height="40"/>
   </a>
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-    <img src="https://numpy.org/doc/stable/_static/numpylogo.svg" alt="numpy" width="40" height="40"/>
-  </a>
-  <!-- Add more icons here -->
 </p>
 
 
