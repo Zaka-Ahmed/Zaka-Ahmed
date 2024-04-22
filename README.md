@@ -59,7 +59,9 @@
   </a>
   <a href="https://www.cs.waikato.ac.nz/ml/weka/" target="_blank" rel="noreferrer">
     <img src="https://weka.sourceforge.io/favicon.ico" alt="weka" width="40" height="40"/>
-   
+   <a href="https://databricks.com/" target="_blank" rel="noreferrer">
+    <img src="https://your-databricks-icon-url-here" alt="databricks" width="40" height="40"/>
+</a>
 </p>
 
 
