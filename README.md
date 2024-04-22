@@ -57,10 +57,9 @@
     <img src="https://weka.sourceforge.io/favicon.ico" alt="weka" width="40" height="40"/>
     <a href="https://cloud.google.com/bigquery" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" alt="big_query" width="40" height="40"/>
-  <a href="https://flow.microsoft.com/en-us/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Power_Automate_icon_%28flow%29.svg/1200px-Power_Automate_icon_%28flow%29.svg.png" alt="Power Automate" width="40" height="40"/>
-  </a>
-
+<a href="https://flow.microsoft.com/en-us/" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/color/452/microsoft-flow.png" alt="Power Automate" width="40" height="40"/>
+</a>
 </p>
 
 
