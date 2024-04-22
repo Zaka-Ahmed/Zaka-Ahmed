@@ -55,8 +55,8 @@
   </a>
   <a href="https://www.cs.waikato.ac.nz/ml/weka/" target="_blank" rel="noreferrer">
     <img src="https://weka.sourceforge.io/favicon.ico" alt="weka" width="40" height="40"/>
-     <a href="https://azure.microsoft.com/en-us/services/databricks/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
+    <a href="https://cloud.google.com/bigquery" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" alt="big_query" width="40" height="40"/>
   </a>
 
 </p>
