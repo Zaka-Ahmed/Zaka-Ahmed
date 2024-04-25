@@ -18,9 +18,10 @@
 
  <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
-    <img src="https://www.freeiconspng.com/uploads/excel-icon-8.png" alt="excel" width="40" height="40"/>
- </a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/fluency/48/000000/microsoft-excel-2019.png" alt="excel" width="40" height="40"/>
+</a>
+
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
   </a>
