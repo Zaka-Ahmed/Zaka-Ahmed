@@ -70,7 +70,8 @@
     <a href="https://www.elastic.co/elasticsearch/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="Elasticsearch" width="40" height="40"/>
 <a href="https://www.elastic.co/elasticsearch/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Kibana_Logo.svg" alt="Kibana" width="40" height="40"/>
+  <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABZUlEQVR42u3TMQrCMBAF0K6x/Q5EooXHLYFzF+KyK/OhToM+/OMFiwATlqW1shbRwWe9Pq7bVwq+5I+oyftBw8DD/w+Uvdn2vkM3u0y3u0y3u0y3u0y3u0y3u0y3u0y3u0y3u0y3u0y3u0y3u0y3u0y3u0y3u0y3u0y3u0y3u0y3u0y3u0y3u0y3u0y3u
+
 </a>
 
 
