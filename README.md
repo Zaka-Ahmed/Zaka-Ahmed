@@ -69,8 +69,10 @@
     <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" alt="big_query" width="40" height="40"/>
     <a href="https://www.elastic.co/elasticsearch/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="Elasticsearch" width="40" height="40"/>
-<a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer">
-  <img src="https://logos-download.com/wp-content/uploads/2016/10/Kibana_logo.png" alt="Kibana" width="40" height="40"/>
+<a href="https://www.elastic.co/elasticsearch/" target="_blank" rel="noreferrer">
+  <img src="https://example.com/kibana_logo.png" alt="Kibana" width="40" height="40"/>
+</a>
+
 </a>
 
 </p>
