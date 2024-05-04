@@ -67,11 +67,13 @@
     <img src="https://weka.sourceforge.io/favicon.ico" alt="weka" width="40" height="40"/>
     <a href="https://cloud.google.com/bigquery" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" alt="big_query" width="40" height="40"/>
-     <a href="https://www.elastic.co/elasticsearch/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Elasticsearch_logo.svg" alt="Elasticsearch" width="40" height="40"/>
+    <a href="https://www.elastic.co/elasticsearch/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="Elasticsearch" width="40" height="40"/>
 </a>
 <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Kibana_logo.svg" alt="Kibana" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="Kibana" width="40" height="40"/>
+</a>
+
 </a>
 
 </p>
