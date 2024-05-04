@@ -70,7 +70,7 @@
     <a href="https://www.elastic.co/elasticsearch/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="Elasticsearch" width="40" height="40"/>
 <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer">
-  <img src="https://seeklogo.com/images/K/kibana-logo-20A0FBE7F8-seeklogo.com.png" alt="Kibana" width="40" height="40"/>
+  <img src="https://logos-download.com/wp-content/uploads/2016/10/Kibana_logo.png" alt="Kibana" width="40" height="40"/>
 </a>
 
 </p>
