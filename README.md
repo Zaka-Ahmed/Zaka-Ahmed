@@ -8,7 +8,7 @@
 
 - 🔭 I am exploring and learning more about **Deep Learning and Computer Vision**
 
-- 💬 Ask me about **Data Science,Data Engeenring,Machine Learning, Deep Learning**
+- 💬 Ask me about **Data Science,Data Engeenring,Machine Learning and Deep Learning**
 
 - 📧 How to reach me **zakaahmed33@gmail.com**
 
