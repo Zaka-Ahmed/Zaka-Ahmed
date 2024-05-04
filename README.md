@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Data Engineer and Accomplished Data Scientist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zaka-ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="zaka-ahmed" /> </p>
-<!-- <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"> -->
+<!-- <img align="right" alt="Coding" width="600" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"> -->
 <img align="right" alt="Coding" width="400" src= "https://www.canopusinfosystems.com/wp-content/uploads/2023/06/360-degree.gif">
 <!-- - 🔭 I am currently working on Image Classification on TensorFlow -->
 
