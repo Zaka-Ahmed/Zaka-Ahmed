@@ -71,9 +71,7 @@
     <a href="https://www.elastic.co/elasticsearch/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="Elasticsearch" width="40" height="40"/>
 <a href="https://www.elastic.co/elasticsearch/" target="_blank" rel="noreferrer"> 
-</a>
-<a href="https://www.elastic.co/kibana/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/elastic/kibana-icon.svg" alt="Kibana" width="40" height="40"/>     
+</a> 
 </p>
 
 
