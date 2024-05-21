@@ -75,8 +75,9 @@
 <img src="https://spark.apache.org/images/spark-logo-trademark.png" alt="pyspark" width="40" height="40"/>
 </a>
 <a href="https://databricks.com/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Databricks_Logo.png/320px-Databricks_Logo.png" alt="databricks" width="40" height="40"/>
+  <img src="https://databricks.com/wp-content/uploads/2021/10/db-nav-logo-light.png" alt="databricks" width="40" height="40"/>
 </a>
+
 
 </p>
 
