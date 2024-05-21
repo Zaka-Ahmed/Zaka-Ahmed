@@ -53,8 +53,8 @@
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
    <a href="https://plotly.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-icon.svg" alt="plotly" width="40" height="40"/>
-  </a>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Plotly-logo-01-square.png/600px-Plotly-logo-01-square.png" alt="plotly" width="40" height="40"/>
+</a>
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
   </a>
@@ -74,10 +74,6 @@
 <a href="https://spark.apache.org/docs/latest/api/python/" target="_blank" rel="noreferrer">
 <img src="https://spark.apache.org/images/spark-logo-trademark.png" alt="pyspark" width="40" height="40"/>
 </a>
-<a href="https://databricks.com/" target="_blank" rel="noreferrer">
-  <img src="https://databricks.com/wp-content/uploads/2021/10/db-nav-logo-light.png" alt="databricks" width="40" height="40"/>
-</a>
-
 
 </p>
 
