@@ -71,7 +71,14 @@
     <a href="https://www.elastic.co/elasticsearch/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="Elasticsearch" width="40" height="40"/>
 <a href="https://www.elastic.co/elasticsearch/" target="_blank" rel="noreferrer"> 
-</a> 
+<a href="https://spark.apache.org/docs/latest/api/python/" target="_blank" rel="noreferrer">
+<img src="https://spark.apache.org/images/spark-logo-trademark.png" alt="pyspark" width="40" height="40"/>
+</a>
+<a href="https://databricks.com/" target="_blank" rel="noreferrer">
+<img src="https://databricks.com/wp-content/uploads/2022/09/db-nav-logo.png" alt="databricks" width="40" height="40"/>
+</a>
+
+</p> 
 </p>
 
 
