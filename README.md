@@ -72,6 +72,9 @@
 <a href="https://spark.apache.org/docs/latest/api/python/" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="pyspark" width="40" height="40"/>
 </a>
+<a href="https://databricks.com/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Databricks_Logo.png/600px-Databricks_Logo.png" alt="databricks" width="40" height="40"/>
+</a>
 
 </p>
 
