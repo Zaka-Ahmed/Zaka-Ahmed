@@ -68,9 +68,6 @@
     <a href="https://www.elastic.co/elasticsearch/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="Elasticsearch" width="40" height="40"/>
 <a href="https://www.elastic.co/elasticsearch/" target="_blank" rel="noreferrer"> 
-<a href="https://curl.se/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/curl/curl-plain.svg" alt="cURL" width="40" height="40"/>
-</a>
 <a href="https://spark.apache.org/docs/latest/api/python/" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="pyspark" width="40" height="40"/>
 </a>
