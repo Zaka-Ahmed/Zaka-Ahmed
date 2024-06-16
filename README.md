@@ -6,7 +6,7 @@
 <img align="right" alt="Coding" width="400" src= "https://www.canopusinfosystems.com/wp-content/uploads/2023/06/360-degree.gif">
 <!-- - 🔭 I am currently working on Image Classification on TensorFlow -->
 
-- 🔭 I am exploring and learning more about **Deep Learning and Computer Vision**
+- 🔭 I am exploring and learning more about **Data Engeenring and Cloud Computing**
 
 - 💬 Ask me about **Data Science,Data Engeenring,Machine Learning and Deep Learning**
 
