@@ -17,7 +17,7 @@
 <a href="https://linkedin.com/in/www.linkedin.com/in/zaka-ahmed-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/zaka-ahmed-" height="30" width="40" /></a>
 </p>
 
- <h3 align="left">Languages and Tools:</h3>
+ <h3 align="left">My Tech Stack:</h3>
 <p align="left">
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/fluency/48/000000/microsoft-excel-2019.png" alt="excel" width="40" height="40"/>
@@ -77,7 +77,13 @@
 <a href="https://databricks.com/" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Databricks_Logo.png/600px-Databricks_Logo.png" alt="databricks" width="40" height="40"/>
 </a>
-
+<a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="tableau" width="40" height="40"/>
+  </a>
+  
+  <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/353898/kibana.svg" alt="kibana" width="40" height="40"/>
+  </a>
 </p>
 
 
