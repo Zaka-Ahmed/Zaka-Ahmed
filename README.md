@@ -79,6 +79,9 @@
 </a>
 <a href="https://databricks.com/" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Databricks_Logo.png/600px-Databricks_Logo.png" alt="databricks" width="40" height="40"/>
+ <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/>
+  </a>
 </a>
 </p>
 
