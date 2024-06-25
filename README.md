@@ -61,6 +61,9 @@
    <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="power_bi" width="40" height="40"/>
   </a>
+   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="tableau" width="40" height="40"/>
+  </a>
   <a href="https://www.cs.waikato.ac.nz/ml/weka/" target="_blank" rel="noreferrer">
     <img src="https://weka.sourceforge.io/favicon.ico" alt="weka" width="40" height="40"/>
     <a href="https://cloud.google.com/bigquery" target="_blank" rel="noreferrer">
@@ -77,13 +80,6 @@
 <a href="https://databricks.com/" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Databricks_Logo.png/600px-Databricks_Logo.png" alt="databricks" width="40" height="40"/>
 </a>
-<a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="tableau" width="40" height="40"/>
-  </a>
-  
-  <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/353898/kibana.svg" alt="kibana" width="40" height="40"/>
-  </a>
 </p>
 
 
