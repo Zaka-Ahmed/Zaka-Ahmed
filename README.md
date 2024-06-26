@@ -17,7 +17,7 @@
 <a href="https://linkedin.com/in/www.linkedin.com/in/zaka-ahmed-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/zaka-ahmed-" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">My Tech Stack:</h3>
+<h3 align="left">🛠️ My Tech Stack:</h3>
 <p align="left">
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/fluency/48/000000/microsoft-excel-2019.png" alt="excel" width="40" height="40"/>
