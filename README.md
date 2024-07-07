@@ -75,8 +75,8 @@
   <a href="https://www.elastic.co/elasticsearch/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="Elasticsearch" width="40" height="40"/>
   </a>
-   <a href="https://curl.se/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/Curl-logo.svg" alt="curl" width="40" height="40"/>
+  <a href="https://curl.se/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/curl/curl-plain.svg" alt="curl" width="40" height="40"/>
   </a>
   <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/>
