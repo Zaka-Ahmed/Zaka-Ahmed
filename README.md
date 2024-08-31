@@ -66,7 +66,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="power_bi" width="40" height="40"/>
   </a>
   <a href="https://flow.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/ios/50/000000/microsoft-power-automate.png" alt="power_automate" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Microsoft_Power_Automate_Logo.png" alt="power_automate" width="40" height="40"/>
   </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="figma" width="40" height="40"/>
