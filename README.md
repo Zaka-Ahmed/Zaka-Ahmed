@@ -45,6 +45,9 @@
   <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/en/c/cd/Anaconda_Logo.png" alt="anaconda" width="40" height="40"/>
   </a>
+  <a href="https://docs.python-requests.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/psf/requests/main/docs/_static/requests-sidebar.svg" alt="requests" width="40" height="40"/>
+  </a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
   </a>
@@ -62,6 +65,9 @@
   </a>
  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="power_bi" width="40" height="40"/>
+  </a>
+  <a href="https://flow.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Microsoft_Power_Automate_Logo.png" alt="power_automate" width="40" height="40"/>
   </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="figma" width="40" height="40"/>
