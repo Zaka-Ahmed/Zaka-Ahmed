@@ -86,34 +86,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Databricks_Logo.png/600px-Databricks_Logo.png" alt="databricks" width="40" height="40"/>
    <a href="https://aws.amazon.com/s3/" target="_blank" rel="noreferrer">
     <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" alt="aws_s3" width="40" height="40"/>
-  </a>
-  <a href="https://aws.amazon.com/glue/" target="_blank" rel="noreferrer">
-    <img src="https://d2908q01vomqb2.cloudfront.net/3a52f3221656f751b0f47a7da99469238753e8e7/2021/03/22/aws-glue-logo.png" alt="aws_glue" width="40" height="40"/>
-  </a>
-  <a href="https://aws.amazon.com/athena/" target="_blank" rel="noreferrer">
-    <img src="https://miro.medium.com/max/1200/1*9_01p-nmwfAq8q1Z1cNFNA.png" alt="aws_athena" width="40" height="40"/>
-  </a>
-  <a href="https://aws.amazon.com/rds/" target="_blank" rel="noreferrer">
-    <img src="https://docs.aws.amazon.com/rds/images/RDS.png" alt="aws_rds" width="40" height="40"/>
-  </a>
-  <a href="https://aws.amazon.com/redshift/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.thenewstack.io/media/2022/11/8ff204ab-redshift-aws-1024x512.png" alt="aws_redshift" width="40" height="40"/>
-  </a>
-  <a href="https://aws.amazon.com/dms/" target="_blank" rel="noreferrer">
-    <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*pMZ95bDytR4aOh5TwvF1Rg.png" alt="aws_dms" width="40" height="40"/>
-  </a>
-  <a href="https://aws.amazon.com/emr/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.thenewstack.io/media/2022/11/6b4f4d41-emr-aws-1024x512.png" alt="aws_emr" width="40" height="40"/>
-  </a>
-  <a href="https://aws.amazon.com/lambda/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.thenewstack.io/media/2022/11/f34018e8-aws-lambda-1024x512.png" alt="aws_lambda" width="40" height="40"/>
-  </a>
-  <a href="https://aws.amazon.com/kinesis/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.thenewstack.io/media/2022/11/f0b37b7e-aws-kinesis-1024x512.png" alt="aws_kinesis" width="40" height="40"/>
-  </a>
-  <a href="https://aws.amazon.com/dynamodb/" target="_blank" rel="noreferrer">
-    <img src="https://d2908q01vomqb2.cloudfront.net/7b097c6a6dc2529947b79b70784b0fc2a4ab2847/2021/08/23/dynamodb-logo-640x600.png" alt="aws_dynamodb" width="40" height="40"/>
-  </a>
+  
 </p>
 
 
