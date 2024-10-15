@@ -68,9 +68,6 @@
   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="tableau" width="40" height="40"/>
   </a>
-  <a href="https://www.cs.waikato.ac.nz/ml/weka/" target="_blank" rel="noreferrer">
-    <img src="https://weka.sourceforge.io/favicon.ico" alt="weka" width="40" height="40"/>
-  </a>
   <a href="https://cloud.google.com/bigquery" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" alt="big_query" width="40" height="40"/>
   </a>
