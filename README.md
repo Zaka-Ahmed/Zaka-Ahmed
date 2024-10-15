@@ -86,7 +86,8 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Databricks_Logo.png/600px-Databricks_Logo.png" alt="databricks" width="40" height="40"/>
    <a href="https://aws.amazon.com/s3/" target="_blank" rel="noreferrer">
     <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" alt="aws_s3" width="40" height="40"/>
-  
+  ![image](https://github.com/user-attachments/assets/d09e2142-a9dc-45bd-a6c7-47cf9aa1e440)
+
 </p>
 
 
