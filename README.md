@@ -84,14 +84,35 @@
   </a>
   <a href="https://databricks.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Databricks_Logo.png/600px-Databricks_Logo.png" alt="databricks" width="40" height="40"/>
-  <a href="https://aws.amazon.com/s3/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Amazon_S3_logo.svg" alt="aws_s3" width="40" height="40"/>
+   <a href="https://aws.amazon.com/s3/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/amazon-s3.png" alt="aws_s3" width="40" height="40"/>
   </a>
   <a href="https://aws.amazon.com/glue/" target="_blank" rel="noreferrer">
-    <img src="https://seeklogo.com/images/A/aws-glue-logo-D13B9D9546-seeklogo.com.png" alt="aws_glue" width="40" height="40"/>
+    <img src="https://img.icons8.com/color/48/aws-glue.png" alt="aws_glue" width="40" height="40"/>
   </a>
   <a href="https://aws.amazon.com/athena/" target="_blank" rel="noreferrer">
-    <img src="https://d2908q01vomqb2.cloudfront.net/8c4ba75aace8d9b9c727a2d0ffaff1ae589a95ce/2021/05/24/AWS-Athena.png" alt="aws_athena" width="40" height="40"/>
+    <img src="https://img.icons8.com/color/48/amazon-athena.png" alt="aws_athena" width="40" height="40"/>
+  </a>
+  <a href="https://aws.amazon.com/rds/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/amazon-rds.png" alt="aws_rds" width="40" height="40"/>
+  </a>
+  <a href="https://aws.amazon.com/redshift/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/amazon-redshift.png" alt="aws_redshift" width="40" height="40"/>
+  </a>
+  <a href="https://aws.amazon.com/dms/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/amazon-dms.png" alt="aws_dms" width="40" height="40"/>
+  </a>
+  <a href="https://aws.amazon.com/emr/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/amazon-emr.png" alt="aws_emr" width="40" height="40"/>
+  </a>
+  <a href="https://aws.amazon.com/lambda/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/aws-lambda.png" alt="aws_lambda" width="40" height="40"/>
+  </a>
+  <a href="https://aws.amazon.com/kinesis/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/amazon-kinesis.png" alt="aws_kinesis" width="40" height="40"/>
+  </a>
+  <a href="https://aws.amazon.com/dynamodb/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/amazon-dynamodb.png" alt="aws_dynamodb" width="40" height="40"/>
   </a>
 </p>
 
