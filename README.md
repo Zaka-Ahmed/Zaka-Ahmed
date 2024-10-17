@@ -8,7 +8,7 @@
 
 - 🔭 I am exploring and learning more about **Data Engeenring and Cloud Computing**
 
-- 💬 Ask me about **Data Science,BI,Data Engeenring,Machine Learning and Deep Learning**
+- 💬 Ask me about **Data Science,BI,Data Engeenring and Machine Learning**
 
 - 📧 How to reach me **zakaahmed33@gmail.com**
 
