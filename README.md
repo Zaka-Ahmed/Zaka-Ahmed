@@ -31,11 +31,11 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a>
-  <a href="https://learn.microsoft.com/en-us/sql/reporting-services" target="_blank" rel="noreferrer">
-  <img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-report-analytics-flat-flat-juicy-fish.png" alt="ssrs" width="40" height="40"/>
+  <a href="https://learn.microsoft.com/en-us/sql/ssms/sql-server-management-studio-ssms" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sql_data_base_with_logo.png/600px-Sql_data_base_with_logo.png" alt="sql-management-studio" width="40" height="40"/>
 </a>
-<a href="https://learn.microsoft.com/en-us/sql/ssms/sql-server-management-studio-ssms" target="_blank" rel="noreferrer">
-  <img src="https://img.icons8.com/ios/50/000000/server.png" alt="sql-management-studio" width="40" height="40"/>
+<a href="https://learn.microsoft.com/en-us/sql/integration-services/sql-server-integration-services" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/SQL_Server_Integration_Services_logo.svg/512px-SQL_Server_Integration_Services_logo.svg.png" alt="ssis" width="40" height="40"/>
 </a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
