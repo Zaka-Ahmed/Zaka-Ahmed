@@ -69,9 +69,6 @@
   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="tableau" width="40" height="40"/>
   </a>
-  <a href="https://cloud.google.com/bigquery" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" alt="big_query" width="40" height="40"/>
-  </a>
   <a href="https://www.elastic.co/elasticsearch/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="Elasticsearch" width="40" height="40"/>
   <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer">
@@ -84,7 +81,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hadoop/hadoop-original.svg" alt="hadoop" width="40" height="40"/>
 </a>
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+  <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" alt="docker" width="40" height="40"/>
 </a>
   <a href="https://databricks.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Databricks_Logo.png/600px-Databricks_Logo.png" alt="databricks" width="40" height="40"/>
