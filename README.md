@@ -86,8 +86,9 @@
   <a href="https://databricks.com/" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" alt="databricks" width="40" height="40"/>
 </a>
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/>
+<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="aws" width="120" height="40"/>
+</a>
 </a>
 </a>
 
