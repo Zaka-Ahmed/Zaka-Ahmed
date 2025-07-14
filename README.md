@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋🏻, I'm Zaka Ahmed</h1>
 <h3 align="center">Emerging Data Engineer | Accomplished Data Analyst/BI Analyst</h3>
-<h3 align="center">Skilled in Python,SQL,Power BI,Elastic Search and Kibana</h3>
+<h3 align="center">Skilled in Python,SQL,PySpark,AWS and Elastic Stack </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zaka-ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="zaka-ahmed" /> </p>
 <!-- <img align="right" alt="Coding" width="600" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"> -->
