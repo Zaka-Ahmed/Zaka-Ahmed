@@ -1,121 +1,119 @@
-<h1 align="center">Hi 👋🏻, I'm Zaka Ahmed</h1>
-<h3 align="center">Emerging Data Engineer | Accomplished Data Analyst/BI Analyst</h3>
-<h3 align="center">Skilled in Python,SQL,PySpark,AWS and Elastic Stack </h3>
+<h1 align="center">👋 Hi, I'm <span style="color:#0e75b6">Zaka Ahmed</span></h1>
+<h3 align="center">🚀 Emerging Data Engineer | Data Analyst / BI Analyst</h3>
+<h4 align="center">Python • SQL • PySpark • AWS • Elastic Stack</h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zaka-ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="zaka-ahmed" /> </p>
-<!-- <img align="right" alt="Coding" width="600" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"> -->
-<img align="right" alt="Coding" width="400" src= "https://www.canopusinfosystems.com/wp-content/uploads/2023/06/360-degree.gif">
-<!-- - 🔭 I am currently working on Image Classification on TensorFlow -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=zaka-ahmed&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
-- 🔭 I am exploring and learning more about **Data Engeenring and Cloud Computing**
+<img align="right" alt="Data Engineering Animation" width="380" src="https://www.canopusinfosystems.com/wp-content/uploads/2023/06/360-degree.gif" />
 
-- 💬 Ask me about **Data Science,BI,Data Engeenring and Machine Learning**
+---
 
-- 📧 How to reach me **zakaahmed33@gmail.com**
+## 👨‍💻 About Me
 
-<h3 align="left">Connect with me:</h3>
+* 🔭 Currently deepening my expertise in **Data Engineering & Cloud Computing**
+* 📊 Strong background in **BI, Analytics, and Data Pipelines**
+* 💬 Ask me about **Data Engineering, BI, Cloud (AWS), Machine Learning & Analytics**
+* 📫 Reach me at **[zakaahmed33@gmail.com](mailto:zakaahmed33@gmail.com)**
+
+---
+
+## 🌐 Connect With Me
+
 <p align="left">
-  <a href="https://www.linkedin.com/in/zakaahmed-" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/zakaahmed-" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
   </a>
 </p>
 
-<h3 align="left">🛠️ My Tech Stack:</h3>
-<p align="left">
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/fluency/48/000000/microsoft-excel-2019.png" alt="excel" width="40" height="40"/>
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/883px-Jupyter_logo.svg.png" alt="jupyter" width="40" height="40"/>
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="vscode" width="40" height="40"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  </a>
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-    <img src="https://numpy.org/doc/stable/_static/numpylogo.svg" alt="numpy" width="40" height="40"/>
-  </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-  </a>
- <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="power_bi" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="figma" width="40" height="40"/>
-</a>
-  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="tableau" width="40" height="40"/>
-  </a>
-  <a href="https://www.elastic.co/elasticsearch/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="Elasticsearch" width="40" height="40"/>
-  <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/>
-  </a>
-  <a href="https://spark.apache.org/docs/latest/api/python/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="pyspark" width="40" height="40"/>
-  </a>
-    <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hadoop/hadoop-original.svg" alt="hadoop" width="40" height="40"/>
-  </a>
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" alt="linux" width="40" height="40"/>
-</a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="git" width="40" height="40"/>
-</a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" alt="docker" width="40" height="40"/>
-</a>
-  <a href="https://databricks.com/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" alt="databricks" width="40" height="40"/>
-</a>
-<a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" alt="airflow" width="50" height="40"/> </a>
-</a>
-<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="aws" width="40" height="30"/>
-</a>
-</a>
-</a>
-</a>
-</a>
+---
 
-</a>
+## 🛠️ Tech Stack
 
-</a>
+### 🚀 Badges Overview
 
-</a>
-
-</a>
-
-</a>
+<p>
+  <img src="https://img.shields.io/badge/AWS-Cloud-orange?logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/PySpark-Big%20Data-red?logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-Databases-blue?logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-Programming-yellow?logo=python&logoColor=black" />
+  <img src="https://img.shields.io/badge/Elastic-Search%20%26%20Analytics-005571?logo=elastic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-Business%20Intelligence-F2C811?logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-Visualization-E97627?logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-Containers-2496ED?logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-OS-FCC624?logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-Version%20Control-F05032?logo=git&logoColor=white" />
 </p>
 
+---
 
+### 📊 Data & BI
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zaka-ahmed&show_icons=true&locale=en&layout=compact" alt="zaka-ahmed" /></p>
+<p>
+  <img src="https://img.shields.io/badge/Power%20BI-Analytics-F2C811?logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-Visualization-E97627?logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-Analysis-217346?logo=microsoftexcel&logoColor=white" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zaka-ahmed&show_icons=true&locale=en" alt="zaka-ahmed" /></p>
+### Programming & Analytics
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zaka-ahmed&" alt="zaka-ahmed" /></p>
+<p>
+  <img src="https://img.shields.io/badge/Python-Programming-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-Scientific%20Computing-013243?logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-ML-F7931E?logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-Deep%20Learning-FF6F00?logo=tensorflow&logoColor=white" />
+</p>
 
+### 🗄️ Databases
+
+<p>
+  <img src="https://img.shields.io/badge/SQL-Querying-blue?logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-Database-4169E1?logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-Database-4479A1?logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20Server-Microsoft-CC2927?logo=microsoftsqlserver&logoColor=white" />
+</p>
+
+### ⚙️ Big Data & Cloud
+
+<p>
+  <img src="https://img.shields.io/badge/Apache%20Spark-Big%20Data-E25A1C?logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hadoop-Distributed%20Storage-66CCFF?logo=apachehadoop&logoColor=black" />
+  <img src="https://img.shields.io/badge/Airflow-Orchestration-017CEE?logo=apacheairflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-Cloud-orange?logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Databricks-Analytics-EF3E42?logo=databricks&logoColor=white" />
+</p>
+
+### 🔍 Elastic Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Elasticsearch-Search-005571?logo=elasticsearch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kibana-Visualization-005571?logo=kibana&logoColor=white" />
+</p>
+
+### 🧰 Tools & DevOps
+
+<p>
+  <img src="https://img.shields.io/badge/Git-Version%20Control-F05032?logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-Containers-2496ED?logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-OS-FCC624?logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/VS%20Code-IDE-007ACC?logo=visualstudiocode&logoColor=white" />
+</p>
+
+---
+
+## 📈 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zaka-ahmed&show_icons=true&theme=default" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zaka-ahmed&layout=compact" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zaka-ahmed" />
+</p>
+
+---
+
+<p align="center">✨ <i>Building scalable data systems and turning data into impact.</i> ✨</p>
