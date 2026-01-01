@@ -31,19 +31,80 @@
 
 ## 🛠️ Tech Stack
 
-### 🚀 Badges Overview
+<!-- Clean, relevant, and role-focused categorization -->
+
+### ☁️ Cloud & Infrastructure
 
 <p>
-  <img src="https://img.shields.io/badge/AWS-Cloud-orange?logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/PySpark-Big%20Data-red?logo=apachespark&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-Databases-blue?logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-Programming-yellow?logo=python&logoColor=black" />
-  <img src="https://img.shields.io/badge/Elastic-Search%20%26%20Analytics-005571?logo=elastic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-Business%20Intelligence-F2C811?logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tableau-Visualization-E97627?logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-Containers-2496ED?logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-OS-FCC624?logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-Version%20Control-F05032?logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Elastic%20Stack-005571?logo=elastic&logoColor=white" />
+</p>
+
+### ☁️ AWS Services Expertise
+
+<p>
+  <img src="https://img.shields.io/badge/Amazon%20S3-569A31?logo=amazons3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon%20Athena-232F3E?logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?logo=awslambda&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon%20Connect-232F3E?logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/DynamoDB-4053D6?logo=amazondynamodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon%20QuickSight-FF9900?logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/CloudFormation-FF9900?logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS%20Glue-232F3E?logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon%20Redshift-8C4FFF?logo=amazonredshift&logoColor=white" />
+</p>
+
+### 🧱 Big Data & Data Engineering
+
+<p>
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hadoop-66CCFF?logo=apachehadoop&logoColor=black" />
+  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?logo=apacheairflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Databricks-EF3E42?logo=databricks&logoColor=white" />
+</p>
+
+### 💻 Programming & Scripting
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white" />
+</p>
+
+### 🗄️ Databases & Warehousing
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white" />
+</p>
+
+### 📊 Analytics & Visualization
+
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas%20Profiling-0A0A0A?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white" />
+</p>
+
+### 🤖 Machine Learning
+
+<p>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" />
+</p>
+
+### ⚙️ DevOps & Tooling
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white" />
 </p>
 
 ---
@@ -56,7 +117,7 @@
   <img src="https://img.shields.io/badge/Excel-Analysis-217346?logo=microsoftexcel&logoColor=white" />
 </p>
 
-### Programming & Analytics
+### 🐍 Programming & Analytics
 
 <p>
   <img src="https://img.shields.io/badge/Python-Programming-3776AB?logo=python&logoColor=white" />
