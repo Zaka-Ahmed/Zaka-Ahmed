@@ -31,37 +31,25 @@
 
 ## 🛠️ Tech Stack
 
-<!-- Clean, relevant, and role-focused categorization -->
+<!-- Structured exactly like your reference image: clean sections, no repetition -->
 
 ### ☁️ Cloud & Infrastructure
 
 <p>
   <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Elastic%20Stack-005571?logo=elastic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
 </p>
 
-### ☁️ AWS Services Expertise
-
-<p>
-  <img src="https://img.shields.io/badge/Amazon%20S3-569A31?logo=amazons3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Amazon%20Athena-232F3E?logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?logo=awslambda&logoColor=white" />
-  <img src="https://img.shields.io/badge/Amazon%20Connect-232F3E?logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/DynamoDB-4053D6?logo=amazondynamodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Amazon%20QuickSight-FF9900?logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/CloudFormation-FF9900?logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS%20Glue-232F3E?logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Amazon%20Redshift-8C4FFF?logo=amazonredshift&logoColor=white" />
-</p>
-
-### 🧱 Big Data & Data Engineering
+### 🧱 Data Engineering
 
 <p>
   <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apachespark&logoColor=white" />
   <img src="https://img.shields.io/badge/PySpark-E25A1C?logo=apachespark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hadoop-66CCFF?logo=apachehadoop&logoColor=black" />
   <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?logo=apacheairflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Databricks-EF3E42?logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hadoop-66CCFF?logo=apachehadoop&logoColor=black" />
 </p>
 
 ### 💻 Programming & Scripting
@@ -77,6 +65,8 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon%20Athena-232F3E?logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon%20Redshift-8C4FFF?logo=amazonredshift&logoColor=white" />
 </p>
 
 ### 📊 Analytics & Visualization
@@ -88,6 +78,7 @@
   <img src="https://img.shields.io/badge/Pandas%20Profiling-0A0A0A?logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon%20QuickSight-FF9900?logo=amazonaws&logoColor=white" />
 </p>
 
 ### 🤖 Machine Learning
@@ -97,14 +88,21 @@
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" />
 </p>
 
-### ⚙️ DevOps & Tooling
+### ☁️ AWS Services Expertise
 
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Amazon%20S3-569A31?logo=amazons3&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS%20Glue-232F3E?logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?logo=awslambda&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon%20Connect-232F3E?logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/DynamoDB-4053D6?logo=amazondynamodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/CloudFormation-FF9900?logo=amazonaws&logoColor=white" />
+</p>
+
+### ⚙️ DevOps & CI/CD
+
+<p>
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white" />
 </p>
 
 ---
