@@ -8,7 +8,7 @@ Cloud Data Engineering • BI & Analytics • Scalable Data Pipelines
   <img src="https://komarev.com/ghpvc/?username=zaka-ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="zaka-ahmed" />
 </p>
 
-<img align="right" alt="Data Engineering" width="420"
+<img align="right" alt="Data Engineering" width="320" 
 src="https://miro.medium.com/v2/resize:fit:1100/format:webp/0*oXTiZEe6KlcTHvpd.gif">
 
 ---
