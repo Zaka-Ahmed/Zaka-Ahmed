@@ -14,8 +14,8 @@
 <h4 align="center">
 </h4>
 
-<img align="right" alt="Data Engineering" width="320" 
-src="https://miro.medium.com/v2/resize:fit:1100/format:webp/0*oXTiZEe6KlcTHvpd.gif">
+ <img src="https://miro.medium.com/v2/resize:fit:800/format:webp/0*oXTiZEe6KlcTHvpd.gif" width="300" alt="Data Engineering">
+</div>
 
 ---
 
