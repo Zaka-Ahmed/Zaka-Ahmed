@@ -2,20 +2,11 @@
   <img src="https://komarev.com/ghpvc/?username=zaka-ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="zaka-ahmed" />
 </p>
 
-<!-- Animated Skills Ticker -->
+<!-- Animated Typing Effect for Skills -->
 <div align="center">
-  <marquee behavior="scroll" direction="left" scrollamount="6" style="background: linear-gradient(90deg, #0d1117, #161b22, #0d1117); padding: 12px 0; border-radius: 8px; margin-bottom: 20px;">
-    <span style="color: #58a6ff; font-weight: bold; font-size: 16px; margin: 0 30px;">• Skilled in SQL •</span>
-    <span style="color: #ff7b72; font-weight: bold; font-size: 16px; margin: 0 30px;">• PySpark •</span>
-    <span style="color: #f2cc60; font-weight: bold; font-size: 16px; margin: 0 30px;">• Power BI •</span>
-    <span style="color: #a371f7; font-weight: bold; font-size: 16px; margin: 0 30px;">• BI Analyst •</span>
-    <span style="color: #7ee787; font-weight: bold; font-size: 16px; margin: 0 30px;">• Data Engineering •</span>
-    <span style="color: #ffa657; font-weight: bold; font-size: 16px; margin: 0 30px;">• AWS Cloud •</span>
-    <span style="color: #79c0ff; font-weight: bold; font-size: 16px; margin: 0 30px;">• Python •</span>
-    <span style="color: #d2a8ff; font-weight: bold; font-size: 16px; margin: 0 30px;">• Data Pipelines •</span>
-    <span style="color: #ff7b72; font-weight: bold; font-size: 16px; margin: 0 30px;">• Snowflake •</span>
-    <span style="color: #a371f7; font-weight: bold; font-size: 16px; margin: 0 30px;">• Apache Airflow •</span>
-  </marquee>
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=800&lines=Skilled+in+SQL+%7C+PySpark+%7C+Power+BI+%7C+BI+Analyst;Expert+in+Data+Engineering+%7C+AWS+Cloud+%7C+Python;Building+Scalable+Data+Pipelines+%7C+Real-time+Analytics;Snowflake+%7C+Apache+Airflow+%7C+ETL+%7C+Data+Warehousing)](https://git.io/typing-svg)
+
 </div>
 
 <h1 align="center">Hi 👋🏻, I'm Zaka Ahmed</h1>
