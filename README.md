@@ -8,8 +8,8 @@ Cloud Data Engineering • BI & Analytics • Scalable Data Pipelines
   <img src="https://komarev.com/ghpvc/?username=zaka-ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="zaka-ahmed" />
 </p>
 
-<img align="right" alt="Coding" width="400"
-src="https://www.canopusinfosystems.com/wp-content/uploads/2023/06/360-degree.gif">
+<img align="right" alt="Data Engineering" width="420"
+src="https://miro.medium.com/v2/resize:fit:1100/format:webp/0*oXTiZEe6KlcTHvpd.gif">
 
 ---
 
@@ -56,96 +56,96 @@ src="https://www.canopusinfosystems.com/wp-content/uploads/2023/06/360-degree.gi
 
 ###  Cloud & Infrastructure
 <p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="45"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" width="40"/>
+  <img src="https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-OS-black?style=for-the-badge&logo=linux"/>
 </p>
 
 ---
 
 ###  Programming Languages
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="40"/>
+  <img src="https://img.shields.io/badge/Python-Programming-blue?style=for-the-badge&logo=python"/>
+  <img src="https://img.shields.io/badge/SQL-Querying-lightgrey?style=for-the-badge"/>
 </p>
 
 ---
 
 ###  Databases & Data Warehousing
 <p>
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Snowflake_Logo.svg" width="45"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-DB-blue?style=for-the-badge&logo=postgresql"/>
+  <img src="https://img.shields.io/badge/MySQL-DB-4479A1?style=for-the-badge&logo=mysql"/>
+  <img src="https://img.shields.io/badge/SQL%20Server-DB-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Snowflake-Warehouse-29B5E8?style=for-the-badge&logo=snowflake"/>
 </p>
 
 ---
 
-###  Big Data & Data Engineering
+### Big Data & Data Engineering
 <p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hadoop/hadoop-original.svg" width="45"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" width="50"/>
+  <img src="https://img.shields.io/badge/Apache%20Spark-Big%20Data-E25A1C?style=for-the-badge&logo=apachespark"/>
+  <img src="https://img.shields.io/badge/Hadoop-Big%20Data-FFDE57?style=for-the-badge&logo=apachehadoop"/>
+  <img src="https://img.shields.io/badge/Airflow-Orchestration-017CEE?style=for-the-badge&logo=apacheairflow"/>
 </p>
 
 ---
 
 ##  AWS Services Expertise
-<p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aws/architecture-icons/main/Arch_Storage/48/Arch_Amazon-Simple-Storage-Service_48.png" alt="S3"/>
-  <img src="https://raw.githubusercontent.com/aws/architecture-icons/main/Arch_Analytics/48/Arch_Amazon-Athena_48.png" alt="Athena"/>
-  <img src="https://raw.githubusercontent.com/aws/architecture-icons/main/Arch_Analytics/48/Arch_AWS-Glue_48.png" alt="Glue"/>
-  <img src="https://raw.githubusercontent.com/aws/architecture-icons/main/Arch_Analytics/48/Arch_Amazon-QuickSight_48.png" alt="QuickSight"/>
-  <img src="https://raw.githubusercontent.com/aws/architecture-icons/main/Arch_Security-Identity-Compliance/48/Arch_AWS-Lake-Formation_48.png" alt="Lake Formation"/>
-  <img src="https://raw.githubusercontent.com/aws/architecture-icons/main/Arch_Compute/48/Arch_AWS-Lambda_48.png" alt="Lambda"/>
-  <img src="https://raw.githubusercontent.com/aws/architecture-icons/main/Arch_Application-Integration/48/Arch_Amazon-API-Gateway_48.png" alt="API Gateway"/>
-  <img src="https://raw.githubusercontent.com/aws/architecture-icons/main/Arch_Business-Applications/48/Arch_Amazon-Connect_48.png" alt="AWS Connect"/>
+  <img src="https://img.shields.io/badge/Amazon%20S3-Storage-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Amazon%20Athena-Analytics-232F3E?style=for-the-badge&logo=amazon-aws"/>
+  <img src="https://img.shields.io/badge/AWS%20Glue-ETL-FF9900?style=for-the-badge&logo=amazon-aws"/>
+  <img src="https://img.shields.io/badge/Amazon%20QuickSight-BI-0052CC?style=for-the-badge&logo=amazon-aws"/>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Lake%20Formation-Security-232F3E?style=for-the-badge&logo=amazon-aws"/>
+  <img src="https://img.shields.io/badge/AWS%20Lambda-Serverless-FF9900?style=for-the-badge&logo=aws-lambda"/>
+  <img src="https://img.shields.io/badge/API%20Gateway-Integration-232F3E?style=for-the-badge&logo=amazon-aws"/>
+  <img src="https://img.shields.io/badge/AWS%20Connect-Contact%20Center-527FFF?style=for-the-badge&logo=amazon-aws"/>
+</p>
 
 ---
 
 ###  Analytics, BI & Dashboarding
 <p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40"/>
-  <img src="https://img.icons8.com/color/48/000000/tableau-software.png" width="40"/>
-  <img src="https://img.icons8.com/fluency/48/000000/microsoft-excel-2019.png" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="40"/>
+  <img src="https://img.shields.io/badge/Power%20BI-Dashboarding-F2C811?style=for-the-badge&logo=powerbi"/>
+  <img src="https://img.shields.io/badge/Tableau-Visualization-E97627?style=for-the-badge&logo=tableau"/>
+  <img src="https://img.shields.io/badge/Excel-Analytics-217346?style=for-the-badge&logo=microsoftexcel"/>
 </p>
 
 ---
 
 ###  Data Science & ML
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="40"/>
-  <img src="https://numpy.org/doc/stable/_static/numpylogo.svg" width="40"/>
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/>
+  <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-Scientific%20Computing-013243?style=for-the-badge&logo=numpy"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-ML-F7931E?style=for-the-badge&logo=scikitlearn"/>
+  <img src="https://img.shields.io/badge/TensorFlow-Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow"/>
 </p>
 
 ---
 
 ###  Elastic Stack
 <p>
-  <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" width="40"/>
+  <img src="https://img.shields.io/badge/Elasticsearch-Search-005571?style=for-the-badge&logo=elasticsearch"/>
+  <img src="https://img.shields.io/badge/Kibana-Visualization-005571?style=for-the-badge&logo=kibana"/>
 </p>
 
 ---
 
-###  DevOps / CICD
+###  DevOps & Tools
 <p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" width="40"/>
-  <img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/883px-Jupyter_logo.svg.png" width="40"/>
+  <img src="https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git"/>
+  <img src="https://img.shields.io/badge/Docker-Containers-2496ED?style=for-the-badge&logo=docker"/>
+  <img src="https://img.shields.io/badge/VS%20Code-IDE-007ACC?style=for-the-badge&logo=visualstudiocode"/>
+  <img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zaka-ahmed&show_icons=true&locale=en&layout=compact"/>
 </p>
