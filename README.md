@@ -2,7 +2,6 @@
   <img src="https://komarev.com/ghpvc/?username=zaka-ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="zaka-ahmed" />
 </p>
 
-<!-- Animated Typing Effect for Skills -->
 <div align="center">
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7D038&center=true&vCenter=true&width=800&lines=BI+Analyst+%40+Premier+NX+%7C+PySpark%2C+SQL%2C+Power+BI;Data+Engineering+%7C+Python+%7C+AWS+Cloud;Building+Scalable+Data+Pipelines+%7C+Real-time+Analytics)](https://git.io/typing-svg)
@@ -11,16 +10,15 @@
 
 <h1 align="center">Hi 👋🏻, I'm Zaka Ahmed</h1>
 <h3 align="center">Emerging Data Engineer | BI Analyst @ Premier NX</h3>
-<h4 align="center">
-</h4>
 
-<br><br>
-  
-  <!-- Perfectly centered GIF -->
-  <div align="center">
-    <img src="https://miro.medium.com/v2/resize:fit:1024/format:webp/0*oXTiZEe6KlcTHvpd.gif" width="300" alt="Data Engineering">
-  </div>
+<br>
+
+<!-- Large Centered GIF -->
+<div align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:1024/format:webp/0*oXTiZEe6KlcTHvpd.gif" width="500" alt="Data Engineering">
 </div>
+
+<br>
 
 ## 🚀 About Me
 - 🔭 Actively learning and building in **Data Engineering & Cloud Computing**
@@ -64,7 +62,7 @@
 ##  Tech Stack & Expertise
 
 ###  Cloud & Infrastructure
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-OS-black?style=for-the-badge&logo=linux"/>
 </p>
@@ -72,7 +70,7 @@
 ---
 
 ###  Programming Languages
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Python-Programming-blue?style=for-the-badge&logo=python"/>
   <img src="https://img.shields.io/badge/SQL-Querying-lightgrey?style=for-the-badge"/>
 </p>
@@ -80,7 +78,7 @@
 ---
 
 ###  Databases & Data Warehousing
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/PostgreSQL-DB-blue?style=for-the-badge&logo=postgresql"/>
   <img src="https://img.shields.io/badge/MySQL-DB-4479A1?style=for-the-badge&logo=mysql"/>
   <img src="https://img.shields.io/badge/SQL%20Server-DB-red?style=for-the-badge"/>
@@ -90,7 +88,7 @@
 ---
 
 ### Big Data & Data Engineering
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Apache%20Spark-Big%20Data-E25A1C?style=for-the-badge&logo=apachespark"/>
   <img src="https://img.shields.io/badge/Hadoop-Big%20Data-FFDE57?style=for-the-badge&logo=apachehadoop"/>
   <img src="https://img.shields.io/badge/Airflow-Orchestration-017CEE?style=for-the-badge&logo=apacheairflow"/>
@@ -117,7 +115,7 @@
 ---
 
 ###  Analytics, BI & Dashboarding
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Power%20BI-Dashboarding-F2C811?style=for-the-badge&logo=powerbi"/>
   <img src="https://img.shields.io/badge/Tableau-Visualization-E97627?style=for-the-badge&logo=tableau"/>
   <img src="https://img.shields.io/badge/Excel-Analytics-217346?style=for-the-badge&logo=microsoftexcel"/>
@@ -126,7 +124,7 @@
 ---
 
 ###  Data Science & ML
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas"/>
   <img src="https://img.shields.io/badge/NumPy-Scientific%20Computing-013243?style=for-the-badge&logo=numpy"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-ML-F7931E?style=for-the-badge&logo=scikitlearn"/>
@@ -136,7 +134,7 @@
 ---
 
 ###  Elastic Stack
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Elasticsearch-Search-005571?style=for-the-badge&logo=elasticsearch"/>
   <img src="https://img.shields.io/badge/Kibana-Visualization-005571?style=for-the-badge&logo=kibana"/>
 </p>
@@ -144,14 +142,15 @@
 ---
 
 ###  DevOps & Tools
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git"/>
   <img src="https://img.shields.io/badge/Docker-Containers-2496ED?style=for-the-badge&logo=docker"/>
   <img src="https://img.shields.io/badge/VS%20Code-IDE-007ACC?style=for-the-badge&logo=visualstudiocode"/>
   <img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter"/>
 </p>
 
-
 ---
 
-⭐ <i>Always learning, always building — turning data into actionable insights.</i>
+<div align="center">
+  ⭐ <i>Always learning, always building — turning data into actionable insights.</i>
+</div>
