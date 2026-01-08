@@ -55,7 +55,7 @@
   </td>
     <td valign="top" width="35%" align="right">
       <!-- GIF in Top Right Corner -->
-      <img src="https://miro.medium.com/v2/resize:fit:1024/format:webp/0*oXTiZEe6KlcTHvpd.gif" width="380" alt="Data Engineering">
+      <img src="https://miro.medium.com/v2/resize:fit:1024/format:webp/0*oXTiZEe6KlcTHvpd.gif" width="480" alt="Data Engineering">
     </td>
   </tr>
 </table>
