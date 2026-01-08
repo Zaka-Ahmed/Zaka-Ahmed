@@ -52,9 +52,9 @@ src="https://www.canopusinfosystems.com/wp-content/uploads/2023/06/360-degree.gi
 
 ---
 
-## 🛠️ Tech Stack & Expertise
+##  Tech Stack & Expertise
 
-### ☁️ Cloud & Infrastructure
+###  Cloud & Infrastructure
 <p>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="45"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" width="40"/>
@@ -62,7 +62,7 @@ src="https://www.canopusinfosystems.com/wp-content/uploads/2023/06/360-degree.gi
 
 ---
 
-### 🧠 Programming Languages
+###  Programming Languages
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="40"/>
@@ -70,7 +70,7 @@ src="https://www.canopusinfosystems.com/wp-content/uploads/2023/06/360-degree.gi
 
 ---
 
-### 🗄️ Databases & Data Warehousing
+###  Databases & Data Warehousing
 <p>
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
@@ -80,7 +80,7 @@ src="https://www.canopusinfosystems.com/wp-content/uploads/2023/06/360-degree.gi
 
 ---
 
-### 🔄 Big Data & Data Engineering
+###  Big Data & Data Engineering
 <p>
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hadoop/hadoop-original.svg" width="45"/>
@@ -89,33 +89,24 @@ src="https://www.canopusinfosystems.com/wp-content/uploads/2023/06/360-degree.gi
 
 ---
 
-## ☁️ AWS Services Expertise
+##  AWS Services Expertise
 <p>
-  <img src="https://icon.icepanel.io/AWS/svg/Storage/Simple-Storage-Service.svg" width="45"/>
-  <img src="https://icon.icepanel.io/AWS/svg/Analytics/Athena.svg" width="45"/>
-  <img src="https://icon.icepanel.io/AWS/svg/Analytics/Glue.svg" width="45"/>
-  <img src="https://icon.icepanel.io/AWS/svg/Analytics/QuickSight.svg" width="45"/>
-  <img src="https://icon.icepanel.io/AWS/svg/Security-Identity-Compliance/Lake-Formation.svg" width="45"/>
-  <img src="https://icon.icepanel.io/AWS/svg/Compute/Lambda.svg" width="45"/>
-  <img src="https://icon.icepanel.io/AWS/svg/Application-Integration/Amazon-API-Gateway.svg" width="45"/>
-  <img src="https://icon.icepanel.io/AWS/svg/Business-Applications/Amazon-Connect.svg" width="45"/>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aws/architecture-icons/main/Arch_Storage/48/Arch_Amazon-Simple-Storage-Service_48.png" alt="S3"/>
+  <img src="https://raw.githubusercontent.com/aws/architecture-icons/main/Arch_Analytics/48/Arch_Amazon-Athena_48.png" alt="Athena"/>
+  <img src="https://raw.githubusercontent.com/aws/architecture-icons/main/Arch_Analytics/48/Arch_AWS-Glue_48.png" alt="Glue"/>
+  <img src="https://raw.githubusercontent.com/aws/architecture-icons/main/Arch_Analytics/48/Arch_Amazon-QuickSight_48.png" alt="QuickSight"/>
+  <img src="https://raw.githubusercontent.com/aws/architecture-icons/main/Arch_Security-Identity-Compliance/48/Arch_AWS-Lake-Formation_48.png" alt="Lake Formation"/>
+  <img src="https://raw.githubusercontent.com/aws/architecture-icons/main/Arch_Compute/48/Arch_AWS-Lambda_48.png" alt="Lambda"/>
+  <img src="https://raw.githubusercontent.com/aws/architecture-icons/main/Arch_Application-Integration/48/Arch_Amazon-API-Gateway_48.png" alt="API Gateway"/>
+  <img src="https://raw.githubusercontent.com/aws/architecture-icons/main/Arch_Business-Applications/48/Arch_Amazon-Connect_48.png" alt="AWS Connect"/>
 </p>
 
-<p>
-  <b>Expertise includes:</b><br/>
-  • Secure data lakes with <b>S3 + Lake Formation</b><br/>
-  • Querying large datasets using <b>Athena</b><br/>
-  • ETL pipelines using <b>AWS Glue</b> & <b>PySpark</b><br/>
-  • BI dashboards with <b>QuickSight</b><br/>
-  • Serverless automation using <b>Lambda</b><br/>
-  • Contact center analytics with <b>AWS Connect</b><br/>
-  • API integrations via <b>API Gateway</b><br/>
-  • Cloud data warehousing with <b>Snowflake</b>
-</p>
 
 ---
 
-### 📊 Analytics, BI & Dashboarding
+###  Analytics, BI & Dashboarding
 <p>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40"/>
   <img src="https://img.icons8.com/color/48/000000/tableau-software.png" width="40"/>
@@ -125,7 +116,7 @@ src="https://www.canopusinfosystems.com/wp-content/uploads/2023/06/360-degree.gi
 
 ---
 
-### 📈 Data Science & ML
+###  Data Science & ML
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="40"/>
   <img src="https://numpy.org/doc/stable/_static/numpylogo.svg" width="40"/>
@@ -136,7 +127,7 @@ src="https://www.canopusinfosystems.com/wp-content/uploads/2023/06/360-degree.gi
 
 ---
 
-### 🔍 Elastic Stack
+###  Elastic Stack
 <p>
   <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" width="40"/>
@@ -144,7 +135,7 @@ src="https://www.canopusinfosystems.com/wp-content/uploads/2023/06/360-degree.gi
 
 ---
 
-### ⚙️ DevOps & Tools
+###  DevOps / CICD
 <p>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" width="40"/>
   <img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" width="40"/>
