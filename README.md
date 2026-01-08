@@ -18,7 +18,7 @@
   
   <!-- Perfectly centered GIF -->
   <div align="center">
-    <img src="https://miro.medium.com/v2/resize:fit:800/format:webp/0*oXTiZEe6KlcTHvpd.gif" width="300" alt="Data Engineering">
+    <img src="https://miro.medium.com/v2/resize:fit:1024/format:webp/0*oXTiZEe6KlcTHvpd.gif" width="300" alt="Data Engineering">
   </div>
 </div>
 
