@@ -14,11 +14,13 @@
 <h4 align="center">
 </h4>
 
-  <br>
-                    <img src="https://miro.medium.com/v2/resize:fit:800/format:webp/0*oXTiZEe6KlcTHvpd.gif" width="380" alt="Data Engineering">
-                    </div>
-
-  ---
+<br><br>
+  
+  <!-- Perfectly centered GIF -->
+  <div align="center">
+    <img src="https://miro.medium.com/v2/resize:fit:800/format:webp/0*oXTiZEe6KlcTHvpd.gif" width="300" alt="Data Engineering">
+  </div>
+</div>
 
 ## 🚀 About Me
 - 🔭 Actively learning and building in **Data Engineering & Cloud Computing**
