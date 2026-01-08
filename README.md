@@ -5,14 +5,13 @@
 <!-- Animated Typing Effect for Skills -->
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=800&lines=Skilled+in+SQL+%7C+PySpark+%7C+Power+BI+%7C+BI+Analyst;Expert+in+Data+Engineering+%7C+AWS+Cloud+%7C+Python;Building+Scalable+Data+Pipelines+%7C+Real-time+Analytics;Snowflake+%7C+Apache+Airflow+%7C+ETL+%7C+Data+Warehousing)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7D038&center=true&vCenter=true&width=800&lines=BI+Analyst+%40+Premier+NX+%7C+Skilled+in+SQL+%7C+PySpark+%7C+Power+BI;Expert+in+Data+Engineering+%7C+AWS+Cloud+%7C+Python;Building+Scalable+Data+Pipelines+%7C+Real-time+Analytics)](https://git.io/typing-svg)
 
 </div>
 
 <h1 align="center">Hi 👋🏻, I'm Zaka Ahmed</h1>
 <h3 align="center">Emerging Data Engineer | BI Analyst @ Premier NX</h3>
 <h4 align="center">
-Cloud Data Engineering • BI & Analytics • Scalable Data Pipelines
 </h4>
 
 <img align="right" alt="Data Engineering" width="320" 
