@@ -2,6 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=zaka-ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="zaka-ahmed" />
 </p>
 
+<!-- Animated Typing Effect for Skills -->
 <div align="center">
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7D038&center=true&vCenter=true&width=800&lines=BI+Analyst+%40+Premier+NX+%7C+PySpark%2C+SQL%2C+Power+BI;Data+Engineering+%7C+Python+%7C+AWS+Cloud;Building+Scalable+Data+Pipelines+%7C+Real-time+Analytics)](https://git.io/typing-svg)
@@ -11,15 +12,13 @@
 <h1 align="center">Hi 👋🏻, I'm Zaka Ahmed</h1>
 <h3 align="center">Emerging Data Engineer | BI Analyst @ Premier NX</h3>
 
-<br>
+---
 
-<!-- Large Centered GIF -->
-<div align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:1024/format:webp/0*oXTiZEe6KlcTHvpd.gif" width="500" alt="Data Engineering">
-</div>
-
-<br>
-
+<!-- About Me with GIF in Top Right -->
+<table>
+  <tr>
+    <td valign="top" width="65%">
+      
 ## 🚀 About Me
 - 🔭 Actively learning and building in **Data Engineering & Cloud Computing**
 - 📊 Strong experience in **BI, reporting, and analytics**
@@ -27,7 +26,7 @@
 - 💬 Ask me about **Data Engineering, BI, SQL, Python, AWS & ML**
 - 📧 Reach me at **zakaahmed33@gmail.com**
 
----
+<br>
 
 ## 🌐 Connect with Me
 
@@ -52,6 +51,14 @@
   📞 <b>Phone:</b> <a href="tel:+923363050155">+92 336 3050155</a> <br/>
   📧 <b>Email:</b> <a href="mailto:zakaahmed33@gmail.com">zakaahmed33@gmail.com</a>
 </p>
+
+    </td>
+    <td valign="top" width="35%" align="right">
+      <!-- GIF in Top Right Corner -->
+      <img src="https://miro.medium.com/v2/resize:fit:1024/format:webp/0*oXTiZEe6KlcTHvpd.gif" width="320" alt="Data Engineering">
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Open%20to%20Roles-Data%20Engineer%20%7C%20BI%20Analyst-brightgreen?style=for-the-badge"/>
