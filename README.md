@@ -142,21 +142,6 @@ src="https://miro.medium.com/v2/resize:fit:1100/format:webp/0*oXTiZEe6KlcTHvpd.g
   <img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter"/>
 </p>
 
----
-
-##  GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zaka-ahmed&show_icons=true&locale=en&layout=compact"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zaka-ahmed&show_icons=true&locale=en"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zaka-ahmed"/>
-</p>
 
 ---
 
