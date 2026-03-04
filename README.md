@@ -5,7 +5,7 @@
 <!-- Animated Typing Effect for Skills -->
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1200&color=F7D038&center=true&vCenter=true&width=950&lines=BI+Analyst+%2F+BI+Engineer+%40+Premier+NX;PySpark+%7C+SQL+%7C+Power+BI+%7C+AWS;Designing+Scalable+Data+Pipelines+%7C+Real-time+Analytics)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=500&duration=2000&color=F7D038&center=true&vCenter=true&width=950&lines=BI+Analyst+%2F+BI+Engineer+%40+Premier+NX;PySpark+%7C+SQL+%7C+Power+BI+%7C+AWS;Designing+Scalable+Data+Pipelines+%7C+Real-time+Analytics)](https://git.io/typing-svg)
 
 </div>
 
