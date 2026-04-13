@@ -5,16 +5,15 @@
 <!-- Animated Typing Effect for Skills -->
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=800&duration=2700&color=F7D038&center=true&vCenter=true&width=950&lines=BI+Analyst+%2F+BI+Engineer+%40+Premier+NX;PySpark+%7C+SQL+%7C+Power+BI+%7C+AWS;Designing+Scalable+Data+Pipelines+%7C+Real-time+Analytics)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=800&duration=2700&color=F7D038&center=true&vCenter=true&width=950&lines=BI+Analyst+%2F+BI+Engineer;PySpark+%7C+SQL+%7C+Power+BI+%7C+AWS;Designing+Scalable+Data+Pipelines+%7C+Real-time+Analytics)](https://git.io/typing-svg)
 
 </div>
 
 <h1 align="center">Hi 👋🏻, I'm Zaka Ahmed</h1>
-<h3 align="center">Emerging Data Engineer | BI Analyst @ Premier NX</h3>
+<h3 align="center">Emerging Data Engineer | BI Analyst</h3>
 
 ---
 
-<!-- About Me with GIF in Top Right -->
 <table>
   <tr>
     <td valign="top" width="65%">
@@ -31,11 +30,6 @@
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/zakaahmed-" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-    alt="LinkedIn" height="32" width="42"/>
-  </a>
-
   <a href="https://wa.me/923363050155" target="_blank">
     <img src="https://img.icons8.com/color/48/whatsapp--v1.png"
     alt="WhatsApp" height="34" width="34"/>
@@ -54,7 +48,6 @@
 
   </td>
     <td valign="top" width="35%" align="right">
-      <!-- GIF in Top Right Corner -->
       <img src="https://miro.medium.com/v2/resize:fit:1024/format:webp/0*oXTiZEe6KlcTHvpd.gif" width="400" alt="Data Engineering">
     </td>
   </tr>
