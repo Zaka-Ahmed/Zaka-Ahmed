@@ -23,23 +23,10 @@
 - 📊 Strong experience in **BI, reporting, and analytics**
 - ☁️ Hands-on with **AWS data & analytics services**
 - 💬 Ask me about **Data Engineering, BI, SQL, Python, AWS & ML**
-- 📧 Reach me at **zakaahmed33@gmail.com**
+
 
 <br>
 
-## 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://wa.me/923363050155" target="_blank">
-    <img src="https://img.icons8.com/color/48/whatsapp--v1.png"
-    alt="WhatsApp" height="34" width="34"/>
-  </a>
-
-  <a href="mailto:zakaahmed33@gmail.com">
-    <img src="https://img.icons8.com/color/48/gmail-new.png"
-    alt="Email" height="34" width="34"/>
-  </a>
-</p>
 
 
   </td>
