@@ -41,10 +41,6 @@
   </a>
 </p>
 
-<p align="center">
-  📞 <b>Phone:</b> <a href="tel:+923363050155">+92 336 3050155</a> <br/>
-  📧 <b>Email:</b> <a href="mailto:zakaahmed33@gmail.com">zakaahmed33@gmail.com</a>
-</p>
 
   </td>
     <td valign="top" width="35%" align="right">
